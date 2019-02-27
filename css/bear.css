@@ -11,6 +11,7 @@ html {
 /* Write your solution here */
 @media all and (max-width:1196px) {
  #bear{ 
+  position: relative;
   left: 800px;
 }
 }
