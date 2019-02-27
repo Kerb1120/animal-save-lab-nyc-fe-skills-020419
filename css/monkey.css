@@ -9,7 +9,11 @@ html {
 }
 
 /* Write your solution here */
-@media all and (max-width:406px) {
+@media all and (max-width:1170px) {
+#monkey{
+  bottom: 500px;
+}
+  
 }
 
 @media all and (min-width:406px) {
