@@ -19,6 +19,7 @@ html {
   max-width: 1090px;
   min-width: 642px;
   transform: rotate(90deg);
+  bottom: 250px;
 }
 
 /* Write your solution here */
