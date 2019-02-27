@@ -3,7 +3,7 @@ html {
 }
 
 #monkey {
-  position: absolute;
+  position: fixed;
   top: 550px;
   right: 120px;
   bottom: 500px;
